@@ -4,4 +4,5 @@ c# Repositorio de introducción a GIT
 
 * **git config -list**: Lista de la consiguración actual y gloabl de GIT para el usuario
 * **git remote -v**: Borrar un repositorio
-* HOLITAAAAAAAAAAA
+* **git restore**:
+* HOLOTAAA
